@@ -1,5 +1,3 @@
-# **Finding Lane Lines on the Road -- Hari Thatavarthy** 
-
 ## README 
 
 
